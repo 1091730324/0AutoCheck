@@ -16,7 +16,7 @@
 
 ### pushplus 微信公众号推送
 
-使用[pushplus](http://www.pushplus.plus/)平台进行推送。
+使用[pushplus](http://www.pushplus.plus/)平台进行推送。111
 
 使用方法：
 
